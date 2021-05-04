@@ -1,0 +1,40 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * Class instance.
+ *
+ * @var null
+ */
+protected static \$instance = null;
+
+/**
+ * Get instance.
+ *
+ * @since  $3
+ * @return object
+ */
+public static function get_instance() {
+	if ( null === self::\$instance ) {
+		self::\$instance = new self;
+	}
+	return self::\$instance;
+}
+
+/**
+ * Access $2.
+ *
+ * @since  $3
+ * @return object $2.
+ */
+function $1() {
+	return $2::get_instance();
+}
+
+// Kick off!
+$1();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>singleton</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

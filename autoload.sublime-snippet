@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+if ( is_readable( ${100:WP_CONTENT_DIR}${200:__DIR__} . '/vendor/autoload.php' ) ) {
+	require_once ${100:WP_CONTENT_DIR}${200:__DIR__} . '/vendor/autoload.php';
+}
+	]]></content>
+	<tabTrigger>autoload</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

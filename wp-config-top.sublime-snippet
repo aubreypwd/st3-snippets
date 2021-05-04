@@ -1,0 +1,52 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * Site: ${10:the-site}
+ *
+ * Exported: (Add date when you export)
+ *
+ * Changelog:
+ *   - Something
+ *
+ * \@since $20
+ */
+
+define( 'DB_NAME', 'local' );
+define( 'DB_USER', 'root' );
+define( 'DB_PASSWORD', 'root' );
+define( 'DB_HOST', 'localhost' );
+define( 'DB_CHARSET', 'utf8' );
+define( 'DB_COLLATE', '' );
+
+\$___domain    = isset( \$_SERVER['HTTP_HOST'] ) ? \$_SERVER['HTTP_HOST'] : '$30';
+\$table_prefix = '${40:wp_}';
+
+// Hack any DB site names.
+define( 'DOMAIN_CURRENT_SITE', "{\$___domain}" );
+define( 'WP_SITEURL', "${50:http://}{\$___domain}" );
+define( 'WP_HOME', "${50:http://}{\$___domain}" );
+
+// Auth stuff.
+define( 'AUTH_KEY', 'dev' );
+define( 'SECURE_AUTH_KEY', 'dev' );
+define( 'LOGGED_IN_KEY', 'dev' );
+define( 'NONCE_KEY', 'dev' );
+define( 'AUTH_SALT', 'dev' );
+define( 'SECURE_AUTH_SALT', 'dev' );
+define( 'LOGGED_IN_SALT', 'dev' );
+define( 'NONCE_SALT', 'dev' );
+
+// Multisite.
+${60: // }define( 'WP_ALLOW_MULTISITE', true );
+${60: // }define( 'MULTISITE', true );
+${60: // }define( 'SUBDOMAIN_INSTALL', false );
+${60: // }\$base = '/';
+${60: // }define( 'PATH_CURRENT_SITE', '/' );
+${60: // }define( 'SITE_ID_CURRENT_SITE', 1 );
+${60: // }define( 'BLOG_ID_CURRENT_SITE', 1 );
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wp-config-top</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

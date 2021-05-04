@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+new_cmb2_box( array(
+	'id'            => '$1',
+	'title'         => __( '$2', '$3' ),
+	'object_types'  => array( '$4', ),$5
+	// 'context'    => 'normal',
+	// 'priority'   => 'high',
+	// 'show_on_cb' => 'yourprefix_show_if_front_page', // function should return a bool value
+	// 'show_names' => true, // Show field names on the left
+	// 'cmb_styles' => false, // false to disable the CMB stylesheet
+	// 'closed'     => true, // true to keep the metabox closed by default
+	// 'classes'    => 'extra-class', // Extra cmb2-wrap classes
+	// 'classes_cb' => 'classes', // Add classes through a callback.
+) );
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cmb2-box</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+( function( \$ ) {
+
+	/**
+	 * {$1:myObject}
+	 *
+	 * @return {Object}
+	 */
+	\$.fn.${1:myObject} = function() {
+		var \$${1:myObject} = this;
+	};
+
+	\$( document ).ready( \$.fn.${1:myObject} );
+} ( jQuery ) );
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>jquery-class</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

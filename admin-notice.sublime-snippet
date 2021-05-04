@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="notice notice-${500:success}${510:warning}${520:error}${1000: is-dismissible}">
+	<p><?php esc_html_e( '$2000', '$3000' ); ?></p>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>admin-notice</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.php</scope> -->
+</snippet>

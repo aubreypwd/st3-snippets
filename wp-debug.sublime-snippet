@@ -1,0 +1,44 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * Debug.
+ */
+if ( true ) {
+
+	define( 'WP_DEBUG', true ); // Debug mode
+	define( 'WP_DEBUG_DISPLAY', false ); // Don't display.
+	define( 'WP_DEBUG_LOG', true ); // Logs to debug.log
+	define( 'JETPACK_DEV_DEBUG', true ); // Jetpack, uhm.... okay.
+	define( 'SCRIPT_DEBUG', true ); // Load normal scripts if you can.
+
+	define( 'WP_AUTO_UPDATE_CORE', false ); // Don't update core.
+	define( 'DISABLE_WP_CRON', true ); // Disable Cron.
+	define( 'EMPTY_TRASH_DAYS', 0 ); // I hate deleting things twice!
+	define( 'GF_LICENSE_KEY', 'bfe87eb5a587dbfdbd920629a94250b0' );
+
+	// define( 'COOKIE_DOMAIN', false ); // Keep multisite from freaking out at login.
+	// define( 'WP_CACHE', false ); // Disable advanced cache.
+
+	define( 'BP_DEFAULT_COMPONENT', 'staging-area' ); // Disable BuddyPress defaults.
+	define( 'BP_XPROFILE_SLUG', 'staging-area' ); // Disable BuddyPress defaults.
+
+	define( 'EP_HOST', 'http://failed.tld/' ); // This will fail. // Disable ElasicPress.
+	define( 'EP_DASHBOARD_SYNC', false ); // This will not sync. // Disable ElasicPress.
+
+	// wp_raise_memory_limit( 'admin' );
+	// define( 'WP_MEMORY_LIMIT', '2048M' );
+	// @ini_set( 'upload_max_size' , '1024M' );
+	// @ini_set( 'post_max_size', '1024M' );
+	// @ini_set( 'max_execution_time', '604800' );
+
+	// function wp_mail() { return true; } // Disable mail.
+	// function is_wpe() { return true; } // Emulating WPE.
+	// set_time_limit( 60 ); // Emulating WPE's 60 second limit.
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wp-debug</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${100:One-liner...}${200:
+ *
+ * ${250:Long Description}}
+ *
+ * @author ${300:Aubrey Portwood <aubrey@webdevstudios.com>}
+ * @since  ${400:1.0.0}${500:
+ *
+ * ${650:}
+ * }${600:
+ * ${800:}}
+ */
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>doc</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php, source.js</scope>
+</snippet>

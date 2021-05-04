@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+file_put_contents( WP_CONTENT_DIR . '/debug.log', print_r( (object) [ __FILE__ => __LINE__,
+	$10,$20
+], true ), FILE_APPEND );
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dumpd</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

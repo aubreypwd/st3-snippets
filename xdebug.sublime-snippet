@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+; Setting for MacGDBp.
+xdebug.remote_enable = 1
+xdebug.remote_host = "127.0.0.1"
+xdebug.remote_port = 9000
+xdebug.remote_handler = "dbgp"
+xdebug.remote_mode = req
+xdebug.remote_connect_back = 1
+xdebug.remote_autostart = 1
+cgi.fix_pathinfo = 1
+
+; Other Settings.
+; xdebug.show_local_vars = 1
+; xdebug.var_display_max_depth = -1
+; xdebug.var_display_max_data = -1
+; xdebug.var_display_max_children = -1
+; xdebug.collect_vars = 1
+; xdebug.collect_params = 4
+; xdebug.auto_trace = 1
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>xdebug</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.ini</scope>
+</snippet>

@@ -1,0 +1,36 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * Plugin Name: $100
+ * Plugin URI:  ${200:http://github.com/${205:aubreypwd}${206:WebDevStudios}/${210:repo}}
+ * Description: $300
+ * Version:     $400
+ * Author:      ${500:Aubrey Portwood}${510:WebDevStudios}
+ * Author URI:  ${600:http://aubreypwd.com}${610:http://webdevstudios.com}
+ * License:     GPL2
+ *
+ * @package ${700:${710:Aubrey Portwood}${720:WebDevStudios}/${730:Package}}
+ * @since   ${800:NEXT}
+ */
+
+/*
+ * Copyright ${900:2019} ${500:Aubrey Portwood}${510:WebDevStudios} <${1000:aubreypwd@gmail.com}${1010:aubrey@webdevstudios.com}>
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License, version 2, as
+ * published by the Free Software Foundation.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+ */]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>plugin-header</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

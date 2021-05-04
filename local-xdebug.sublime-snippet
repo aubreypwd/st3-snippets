@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+xdebug.remote_autostart=1
+xdebug.remote_enable=1
+xdebug.remote_connect_back=1
+xdebug.remote_port=9001
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>localxdebug</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

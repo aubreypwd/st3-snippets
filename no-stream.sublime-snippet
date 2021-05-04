@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+/*
+ * Fixes issue where if you're missing large streme tables,
+ * the plugin is de-activated.
+ */
+add_filter( 'option_active_plugins', function( \$plugins ) {
+	foreach ( \$plugins as \$i => \$plugin ) {
+		if ( 'stream/stream.php' === \$plugin ) {
+
+			// Make sure stream isn't active, it breaks AJAX when you don't have the 2-4GB tables.
+			unset( \$plugins[ \$i ] );
+		}
+	}
+
+	return \$plugins;
+}, 99999, 1 );
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>no-stream</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

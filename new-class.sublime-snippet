@@ -1,0 +1,56 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${100:Thing}
+ *
+ * @since ${1000:NEXT}
+ * @package  ${2000:WebDevStudios\Package}
+ */
+
+/**
+ * ${100:Thing}
+ *
+ * @since ${1000:NEXT}
+ */
+class ${100:Thing} {
+
+	/**
+	 * Construct.
+	 *
+	 * @author ${900:Aubrey Portwood <aubrey@webdevstudios.com>}
+	 * @since  ${1000:NEXT}
+	 */
+	public function __construct() {
+	}
+
+	/**
+	 * Get a ${200:thing}.
+	 *
+	 * @author ${900:Aubrey Portwood <aubrey@webdevstudios.com>}
+	 * @since  ${1000:NEXT}
+	 *
+	 * @return ${500:string} ${200:thing} ${400:[<description>]}
+	 */
+	public function get_${200:thing}() : ${500:string} {
+		return \$this->${200:thing};
+	}
+
+	/**
+	 * Set a ${200:thing}.
+	 *
+	 * @since  ${1000:NEXT}
+	 * @author ${900:Aubrey Portwood <aubrey@webdevstudios.com>}
+	 *
+	 * @param ${500:string} \$${200:thing} ${400:[<description>]}
+	 */
+	public function set_${200:thing}( ${500:string} \$${200:thing} ) {
+		\$this->${200:thing} = \$${200:thing};
+	}
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>new-class</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,31 @@
+<snippet>
+	<content><![CDATA[
+/* globals console, jQuery */
+
+( function() {
+	if (
+		window.jQuery || false &&
+		window.wp || false &&
+		window.${100:Object} || false
+	) {
+		return;
+	}
+
+	window.${100:Object} = ( function( \$, pub, prv ) {
+
+		prv.init = function() {
+			// Init...
+		};
+
+		wp.domReady( prv.init );
+
+		return pub;
+
+	} ( jQuery, window.${100:Object}, {} ) );
+} () );
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>module-js</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

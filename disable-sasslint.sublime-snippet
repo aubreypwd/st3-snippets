@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/* sass-lint:disable-all */
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>disable-sasslint</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css, source.sass, source.scss</scope>
+</snippet>

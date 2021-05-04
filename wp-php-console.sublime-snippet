@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+/*
+ * Configures wp-php-console to connect with Chrome console.
+ *
+ * @see https://wordpress.org/plugins/wp-php-console/
+ */
+add_action( 'init', function() {
+	activate_plugin( 'wp-php-console/wp-php-console.php', '', true, true );
+	update_option( 'wp_php_console', [
+		'ip'       => \$_SERVER['REMOTE_ADDR'],
+		'password' => 'password',
+		'register' => true,
+		'short'    => true,
+		'ssl'      => false,
+		'stack'    => true,
+	] );
+} );
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wp-php-console</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

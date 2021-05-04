@@ -1,0 +1,45 @@
+<snippet>
+	<content><![CDATA[
+"SublimeLinter": {
+	"linters": {
+		"csslint": {
+			"disable": true,
+		},
+		"eslint": {
+			"disable": false,
+			"args": [
+					"--config=/Users/aubreypwd/.composer/vendor/webdevstudios/wds-coding-standards/WebDevStudios/.eslintrc.js",
+					"--no-eslintrc"
+			],
+				"excludes": []
+		},
+		"jshint": {
+			"disable": true,
+		},
+		"json": {
+			"disable": false,
+		},
+		"phpcs": {
+			"disable": false,
+			"args": [],
+			"excludes": [],
+			"standard": "WebDevStudios"
+		},
+		"sass": {
+			"disable": false,
+			"args": [
+					"--config=/Users/aubreypwd/.composer/vendor/webdevstudios/wds-coding-standards/WebDevStudios/.sass-lint.yml"
+			],
+			"excludes": []
+		},
+		"shellcheck": {
+			"disable": false,
+		}
+	}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>linting</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.sublime-project</scope> -->
+</snippet>

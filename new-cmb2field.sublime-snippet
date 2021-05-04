@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+$1->add_field( array(
+	'name'       => __( '$2', '$3' ),
+	'desc'       => __( '$4', '$3' ),
+	'id'         => '$5',
+	'type'       => '$6',
+	// 'show_on_cb' => 'yourprefix_hide_if_no_cats', // function should return a bool value
+	// 'sanitization_cb' => 'my_custom_sanitization', // custom sanitization callback parameter
+	// 'escape_cb'       => 'my_custom_escaping',  // custom escaping callback parameter
+	// 'on_front'        => false, // Optionally designate a field to wp-admin only
+	// 'repeatable'      => true,
+	// 'column'          => true, // Display field value in the admin post-listing columns
+) );
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cmb2-field</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+define( 'WP_HOME', 'https://$1/' );
+define( 'WP_SITEURL', 'https://$1/' );
+define( 'FORCE_SSL_ADMIN', true );
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wp-ssl</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

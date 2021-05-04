@@ -1,0 +1,55 @@
+<snippet>
+	<content><![CDATA[
+{
+  "settings": {
+    /**
+     * Linter Switches
+     *
+     * Comment out linters you want to disable.
+     */
+    // "SublimeLinter.linters.phpcs.disable": true,
+    // "SublimeLinter.linters.eslint.disable": true,
+    // "SublimeLinter.linters.sass.disable": true,
+    // "SublimeLinter.linters.stylelint.disable": true,
+    // "SublimeLinter.linters.json.disable": true,
+    // "SublimeLinter.linters.shellcheck.disable": true,
+    // "SublimeLinter.linters.jshint.disable": true,
+    // "SublimeLinter.linters.csslint.disable": true,
+
+    /*
+     * Ensure your Local by Flywheel [Xdebug] looks like:
+     *
+     * [Xdebug]
+     * xdebug.remote_enable=1
+     * xdebug.remote_connect_back=1
+     * xdebug.remote_autostart=1
+     */
+    "xdebug": {
+      // "host": "127.0.0.1", // Leave disabled for Local by Flywheel.
+      "path_mapping": {
+        // "/app/public/": "/Users/aubreypwd/Sites/$1/app/public/" // Comment out for Local by Flywheel 5.x+
+      },
+    }
+  },
+  "folders":
+  [
+    {
+      "path": "/Users/aubreypwd/Sites/$1/app/public/wp-content"
+    },
+    {
+      "path": "/Users/aubreypwd/Sites/$1/app/public",
+      "folder_exclude_patterns": [
+        "wp-content" // No need to count twice.
+      ]
+    },
+    {
+      "path": "/Users/aubreypwd/Sites/$1/conf"
+    },
+  ]
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>project</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.sublime-project</scope> -->
+</snippet>
