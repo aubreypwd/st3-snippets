@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\ray( $1 )->$1;
+\ray( $1 )->notify( $1 );
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>notify</tabTrigger>

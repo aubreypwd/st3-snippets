@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\ray()->showApp();
+\ray( $1 )->showApp();
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>show</tabTrigger>
