@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+set \$production $1;
+
+    # Redirect requests to /wp-content/uploads/* to production server
+    location @prod_uploads {
+        rewrite "^(.*)/wp-content/uploads/(.*)\$" "https://\$production/wp-content/uploads/\$2" break;
+    }
+
+    # Rule for handling requests to https://example.com/wp-content/uploads/
+    location ~ "^/wp-content/uploads/(.*)\$" {
+        try_files \$uri @prod_uploads;
+    }
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>nginx-redirect</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.php</scope> -->
+</snippet>
