@@ -19,10 +19,12 @@
 		/*
 		 * Ensure your Local by Flywheel [Xdebug] looks like:
 		 *
-		 * [Xdebug]
-		 * xdebug.remote_enable=1
-		 * xdebug.remote_connect_back=1
-		 * xdebug.remote_autostart=1
+		 *    [xdebug]
+		 *    zend_extension="xdebug.so"
+		 *    xdebug.mode=debug
+		 *    xdebug.client_host=127.0.0.1
+		 *    xdebug.client_port=9003
+		 *    xdebug.start_with_request=yes
 		 */
 		"xdebug": {
 			"host": "127.0.0.1",
