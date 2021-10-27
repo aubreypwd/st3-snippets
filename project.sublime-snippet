@@ -25,7 +25,8 @@
 		 * xdebug.remote_autostart=1
 		 */
 		"xdebug": {
-			// "host": "127.0.0.1",
+			"host": "127.0.0.1",
+			"port": 9003,
 			"path_mapping": {
 				// "/$2": "/Users/aubreypwd/Sites/$1"
 			},
