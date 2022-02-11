@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
 
+// Debugging CONSTANT's.
 define( 'WP_AUTO_UPDATE_CORE', false );
 define( 'FS_METHOD', 'direct' );
 define( 'FS_CHMOD_DIR', 0775 );
