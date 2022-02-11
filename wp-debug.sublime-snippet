@@ -1,39 +1,37 @@
 <snippet>
 	<content><![CDATA[
-/**
- * Debug.
- */
-if ( true ) {
 
-	define( 'WP_DEBUG', true ); // Debug mode
-	define( 'WP_DEBUG_DISPLAY', false ); // Don't display.
-	define( 'WP_DEBUG_LOG', true ); // Logs to debug.log
-	define( 'JETPACK_DEV_DEBUG', true ); // Jetpack, uhm.... okay.
-	define( 'SCRIPT_DEBUG', true ); // Load normal scripts if you can.
+define( 'WP_AUTO_UPDATE_CORE', false );
+define( 'FS_METHOD', 'direct' );
+define( 'FS_CHMOD_DIR', 0775 );
+define( 'FS_CHMOD_FILE', 0664 );
+define( 'DISABLE_WP_CRON', true );
+define( 'EMPTY_TRASH_DAYS', 0 );
+define( 'WP_MAX_MEMORY_LIMIT', 4096 );
+define( 'WP_MEMORY_LIMIT', 4096 );
+define( 'COMPRESS_CSS', false );
+define( 'COMPRESS_SCRIPTS', false );
+define( 'CONCATENATE_SCRIPTS', false );
+define( 'ENFORCE_GZIP', false );
+define( 'FS_METHOD', 'direct' );
+define( 'WP_DEBUG', true );
+define( 'SCRIPT_DEBUG', true );
+define( 'WP_DEBUG_DISPLAY', false );
+define( 'WP_DEBUG_LOG', true );
+define( 'FORCE_SSL_ADMIN', true );
+define( 'FORCE_SSL_LOGIN', true );
+define( 'SAVE_QUERIES', true );
+define( 'WP_LOCAL_DEV', true ); // https://github.com/Automattic/jetpack/search?q=%22function+is_offline_mode%22
+define( 'JETPACK_DEV_DEBUG', true ); // https://github.com/Automattic/jetpack/search?q=%22function+is_offline_mode%22
+define( 'BP_DEFAULT_COMPONENT', 'staging-area' ); // Disable BuddyPress defaults.
+define( 'BP_XPROFILE_SLUG', 'staging-area' ); // Disable BuddyPress defaults.
+define( 'EP_HOST', 'http://failed.tld/' ); // This will fail. // Disable ElasicPress.
+define( 'EP_DASHBOARD_SYNC', false ); // This will not sync. // Disable ElasicPress.
+define( 'WP_CACHE', false ); // Disable advanced caching.
 
-	define( 'WP_AUTO_UPDATE_CORE', false ); // Don't update core.
-	define( 'DISABLE_WP_CRON', true ); // Disable Cron.
-	define( 'EMPTY_TRASH_DAYS', 0 ); // I hate deleting things twice!
-	define( 'GF_LICENSE_KEY', 'bfe87eb5a587dbfdbd920629a94250b0' );
-
-	// define( 'COOKIE_DOMAIN', false ); // Keep multisite from freaking out at login.
-	// define( 'WP_CACHE', false ); // Disable advanced cache.
-
-	define( 'BP_DEFAULT_COMPONENT', 'staging-area' ); // Disable BuddyPress defaults.
-	define( 'BP_XPROFILE_SLUG', 'staging-area' ); // Disable BuddyPress defaults.
-
-	define( 'EP_HOST', 'http://failed.tld/' ); // This will fail. // Disable ElasicPress.
-	define( 'EP_DASHBOARD_SYNC', false ); // This will not sync. // Disable ElasicPress.
-
-	// wp_raise_memory_limit( 'admin' );
-	// define( 'WP_MEMORY_LIMIT', '2048M' );
-	// @ini_set( 'upload_max_size' , '1024M' );
-	// @ini_set( 'post_max_size', '1024M' );
-	// @ini_set( 'max_execution_time', '604800' );
-
-	// function wp_mail() { return true; } // Disable mail.
-	// function is_wpe() { return true; } // Emulating WPE.
-	// set_time_limit( 60 ); // Emulating WPE's 60 second limit.
+// Disable mail.
+function wp_mail() {
+	return true;
 }
 
 ]]></content>
