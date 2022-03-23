@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+if ( ! defined( 'MAILHOG_HOST') ) {
+	define( 'MAILHOG_HOST', '127.0.0.1' );
+}
+
+if ( ! defined( 'MAILHOG_PORT') ) {
+	define( 'MAILHOG_PORT', 1025 );
+}
+
+add_action( 'phpmailer_init', function( \$phpmailer ) {
+	\$phpmailer->Host     = MAILHOG_HOST;
+	\$phpmailer->Port     = MAILHOG_PORT;
+	\$phpmailer->SMTPAuth = false;
+	\$phpmailer->isSMTP();
+} );
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wp-mailhog</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
