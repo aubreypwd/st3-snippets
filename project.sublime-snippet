@@ -16,7 +16,7 @@
 		// "SublimeLinter.linters.jshint.disable": true,
 		// "SublimeLinter.linters.csslint.disable": true,
 
-		/*
+		/**
 		 * Ensure your Local by Flywheel [Xdebug] looks like:
 		 *
 		 *    [xdebug]
@@ -30,32 +30,28 @@
 			"host": "127.0.0.1",
 			"port": 9003,
 			"path_mapping": {
-				// "/$2": "/Users/aubreypwd/Sites/$1"
+				"/app/public": "/Users/aubreypwd/Sites/Local/$1"
 			},
 		}
 	},
 	"folders":
 	[
 		{
-			"name": "wp-content",
-			"path": "/Users/aubreypwd/Sites/$1/wp-content"
+			"name": "app/public",
+			"path": "/Users/aubreypwd/Sites/Local/$1/app/public"
 		},
 		{
-			"name": "wordpress",
-			"path": "/Users/aubreypwd/Sites/$1",
+			"name": "$1",
+			"path": "/Users/aubreypwd/Sites/Local/$1",
 			"folder_exclude_patterns": [
-				"wp-content" // No need to count twice.
+				"app/public"
 			]
-		},
-		// For Local by Flywheel
-		//{
-		//	"path": "/Users/aubreypwd/Sites/$1/conf"
-		//},
+		}
 	]
 }
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>project</tabTrigger>
+	<tabTrigger>subl-project</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.sublime-project</scope> -->
 </snippet>
