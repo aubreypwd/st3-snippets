@@ -1,54 +1,63 @@
 <snippet>
 	<content><![CDATA[
 {
-	"settings": {
-		/**
-		 * Linter Switches
-		 *
-		 * Comment out linters you want to disable.
-		 */
-		// "SublimeLinter.linters.phpcs.disable": true,
-		// "SublimeLinter.linters.eslint.disable": true,
-		// "SublimeLinter.linters.sass.disable": true,
-		// "SublimeLinter.linters.stylelint.disable": true,
-		// "SublimeLinter.linters.json.disable": true,
-		// "SublimeLinter.linters.shellcheck.disable": true,
-		// "SublimeLinter.linters.jshint.disable": true,
-		// "SublimeLinter.linters.csslint.disable": true,
+  "settings": {
 
-		/**
-		 * Ensure your Local by Flywheel [Xdebug] looks like:
-		 *
-		 *    [xdebug]
-		 *    zend_extension="xdebug.so"
-		 *    xdebug.mode=debug
-		 *    xdebug.client_host=127.0.0.1
-		 *    xdebug.client_port=9003
-		 *    xdebug.start_with_request=yes
-		 */
-		"xdebug": {
-			"host": "127.0.0.1",
-			"port": 9003,
-			"path_mapping": {
-				"/app/public": "/Users/aubreypwd/Sites/Local/$1"
-			},
-		}
-	},
-	"folders":
-	[
-		{
-			"name": "app/public",
-			"path": "/Users/aubreypwd/Sites/Local/$1/app/public"
-		},
-		{
-			"name": "$1",
-			"path": "/Users/aubreypwd/Sites/Local/$1",
-			"folder_exclude_patterns": [
-				"app/public"
-			]
-		}
-	]
+    /**
+     * Linter Switches
+     *
+     * Comment out linters you want to disable.
+     */
+    // "SublimeLinter.linters.phpcs.disable": true,
+    // "SublimeLinter.linters.eslint.disable": true,
+    // "SublimeLinter.linters.sass.disable": true,
+    // "SublimeLinter.linters.stylelint.disable": true,
+    // "SublimeLinter.linters.json.disable": true,
+    // "SublimeLinter.linters.shellcheck.disable": true,
+    // "SublimeLinter.linters.jshint.disable": true,
+    // "SublimeLinter.linters.csslint.disable": true,
+
+    /**
+     * Ensure your Local by Flywheel [Xdebug] looks like:
+     *
+     *    [xdebug]
+     *    zend_extension="xdebug.so"
+     *    xdebug.mode=debug
+     *    xdebug.client_host=127.0.0.1
+     *    xdebug.client_port=9003
+     *    xdebug.start_with_request=yes
+     */
+    "xdebug": {
+      "host": "127.0.0.1",
+      "port": 9003,
+      "path_mapping": {
+        "/app/public": "/Users/aubreypwd/Sites/Local/$1"
+      },
+    }
+  },
+  "folders":
+  [
+    {
+      "name": "app/public/wp-content",
+      "path": "/Users/aubreypwd/Sites/Local/$1/app/public/wp-content"
+    },
+    {
+      "name": "app/public",
+      "path": "/Users/aubreypwd/Sites/Local/$1/app/public",
+      "folder_exclude_patterns": [
+        "app/public/wp-content"
+      ]
+    },
+    {
+      "name": "$1",
+      "path": "/Users/aubreypwd/Sites/Local/$1",
+      "folder_exclude_patterns": [
+        "app/public"
+      ]
+    }
+  ]
 }
+
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>subl-project</tabTrigger>
