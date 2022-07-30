@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-if [[ -x \$(command -v $2) ]]; then
+if [ -x \$(command -v $2) ]; then
 	$2
 fi
 ]]></content>
