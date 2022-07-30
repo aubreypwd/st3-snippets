@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+###
+ # $1
+ #
+ # @since $2
+ ##
+]]></content>
+<tabTrigger>###</tabTrigger>
+<description>Bash/Zsh Function</description>
+<scope>source.shell.bash,comment.line.number-sign.shell,punctuation.definition.comment.shell</scope>
+</snippet>
