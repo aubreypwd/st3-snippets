@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+if [[ -x \$(command -v $2) ]]; then
+	$2
+fi
+]]></content>
+<tabTrigger>if-cmd</tabTrigger>
+<description>Check if a command exists or not</description>
+<scope>source.shell.bash, keyword.control.conditional.if.shell</scope>
+</snippet>
