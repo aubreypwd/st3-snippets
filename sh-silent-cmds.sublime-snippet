@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+( (
+
+	$1
+
+) > /dev/null & )
+]]></content>
+<tabTrigger>silent-cmds</tabTrigger>
+<description>Run commands in silent subshell.</description>
+<scope>source.shell.bash, meta.compound.shell, punctuation.section.compound.begin.shell</scope>
+</snippet>
