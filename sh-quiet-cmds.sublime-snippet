@@ -1,10 +1,15 @@
+<!--
+	Run commands in the background
+
+	@since Monday, August 1, 2022
+-->
 <snippet>
 <content><![CDATA[
 ( (
 
 	$1
 
-) > /dev/null & )
+) 1>&- 2>&- & )
 ]]></content>
 <tabTrigger>cmds-quiet</tabTrigger>
 <description>Run commands in silent subshell.</description>
