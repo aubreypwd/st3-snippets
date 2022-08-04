@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+    /**
+     * Ensure your Local by Flywheel [Xdebug] looks like:
+     *
+     *    [xdebug]
+     *    xdebug.remote_enable=1
+     *    xdebug.remote_connect_back=1
+     *    xdebug.remote_autostart=1
+     */
+    "xdebug": {
+      "port": 9000,
+    }
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>proj-lwp-xdebug</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.sublime-project</scope> -->
+</snippet>
