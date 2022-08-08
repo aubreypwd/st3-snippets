@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+AFFILIATEWP_${1:VERSION}${2:PLUGIN_DIR}${3:PLUGIN_URL}${4:PLUGIN_DIR_NAME}${5:PLUGIN_FILE}${6:PLUGIN_LIB_DIR}
+]]></content>
+<tabTrigger>AFFILIATEWP</tabTrigger>
+<description>AffiliateWP Constants</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, meta.function.php, meta.block.php, constant.other.php</scope>
+</snippet>
