@@ -1,8 +1,8 @@
 <snippet>
 <content><![CDATA[
-@since ${1:NEXT}
+@since ${1:[-NEXT-]}
 ]]></content>
 <tabTrigger>@sn</tabTrigger>
-<description>@since {{-NEXT-}}</description>
+<description>@since NEXT</description>
 <scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, comment.block.documentation.phpdoc.php, keyword.other.phpdoc.php</scope>
 </snippet>
