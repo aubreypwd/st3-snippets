@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+if ( isset( \$_SERVER['HTTP_X_FORWARDED_HOST'] ) ) {
+	define( 'WP_HOME', "{\$_SERVER['HTTP_X_FORWARDED_SCHEME']}://USERNAME:PASSWORD@{\$_SERVER['HTTP_X_FORWARDED_HOST']}" );
+	define( 'SITE_URL', WP_HOME );
+}
+]]></content>
+<tabTrigger>forward-host</tabTrigger>
+<description>When forwarding a host in wp-config.php</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, keyword.control.php</scope>
+</snippet>
