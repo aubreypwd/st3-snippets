@@ -1,0 +1,1835 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"base",
+				"base64_encode()"
+			],
+			[
+				"AFF",
+				"AFFILIATEWP"
+			],
+			[
+				"AFFILIATE",
+				"AFFILIATEWP"
+			],
+			[
+				"check_admin_referer",
+				"check_admin_referer"
+			],
+			[
+				"admin_ref",
+				"check_admin_referer()"
+			],
+			[
+				"sent",
+				"sent_dyk_blurbs"
+			],
+			[
+				"wp_remote_ret",
+				"wp_remote_retrieve_response_code"
+			],
+			[
+				"wp_remote_re",
+				"wp_remote_retrieve_body"
+			],
+			[
+				"param",
+				"param"
+			],
+			[
+				"proj-",
+				"proj-lwp-xdebug"
+			],
+			[
+				"zcomp",
+				"zcompdump-Aubrey’s"
+			],
+			[
+				"WP_CON",
+				"WP_CONTENT_URL"
+			],
+			[
+				"show",
+				"showray"
+			],
+			[
+				"ray",
+				"rayif"
+			],
+			[
+				"hasOwn",
+				"hasOwnProperty()"
+			],
+			[
+				"PHP_INT",
+				"PHP_INT_MAX"
+			],
+			[
+				"PHPINT",
+				"PHP_INT_MAX"
+			],
+			[
+				"relation",
+				"tax_relation_strategy"
+			],
+			[
+				"wds-",
+				"wds-monster-related-articles"
+			],
+			[
+				"wp_localize_script",
+				"wp_localize_script()"
+			],
+			[
+				"poten",
+				"potential_term_id"
+			],
+			[
+				"pote",
+				"potential_post_type"
+			],
+			[
+				"array_filter",
+				"array_filter()"
+			],
+			[
+				"get_stylesheet",
+				"get_stylesheet_directory"
+			],
+			[
+				"wp_enqueue_",
+				"wp_enqueue_style()"
+			],
+			[
+				"resource_editor",
+				"resources_editor_caps"
+			],
+			[
+				"stristr",
+				"stristr()"
+			],
+			[
+				"array_map",
+				"array_map()"
+			],
+			[
+				"is_a",
+				"is_a()"
+			],
+			[
+				"cookie",
+				"cookie_nav"
+			],
+			[
+				"preg_replace",
+				"preg_replace()"
+			],
+			[
+				"str_replace",
+				"str_ireplace()"
+			],
+			[
+				"strreplace",
+				"str_ireplace()"
+			],
+			[
+				"convert",
+				"convertHTMLPatternToJsPattern"
+			],
+			[
+				"wp_json_encode",
+				"wp_json_encode"
+			],
+			[
+				"file_put_contents",
+				"file_put_contents()"
+			],
+			[
+				"addEventLi",
+				"addEventListener"
+			],
+			[
+				"query",
+				"querySelector()"
+			],
+			[
+				"querysel",
+				"querySelectorAll()"
+			],
+			[
+				"project",
+				"project"
+			],
+			[
+				"high",
+				"highlight."
+			],
+			[
+				"next",
+				"next.config.js"
+			],
+			[
+				"social",
+				"SocialIcon.jsx"
+			],
+			[
+				"markdown",
+				"markdown-it"
+			],
+			[
+				"module",
+				"module-js"
+			],
+			[
+				"es",
+				"eslint-config-js-coding-standards"
+			],
+			[
+				"js",
+				"js-coding-standards"
+			],
+			[
+				"eslint",
+				"eslint-plugin-js-coding-standards"
+			],
+			[
+				"market_post",
+				"market_post_id"
+			],
+			[
+				"transient",
+				"transient_attachment_id"
+			],
+			[
+				"neutralized",
+				"neutralized_attachment_id"
+			],
+			[
+				"neu",
+				"neutralized_post"
+			],
+			[
+				"old_attache",
+				"old_attachment_data"
+			],
+			[
+				"old_attachment",
+				"old_attachment_data"
+			],
+			[
+				"new_attach",
+				"new_attachment_id"
+			],
+			[
+				"new_attah",
+				"new_attachment_id"
+			],
+			[
+				"get_original_attach",
+				"get_original_attachment_id_by_url_via_json_data"
+			],
+			[
+				"guten",
+				"gutenberg_id"
+			],
+			[
+				"wp_get_attachment",
+				"wp_get_attachment_link"
+			],
+			[
+				"new_attachmen",
+				"new_attachment_url"
+			],
+			[
+				"block",
+				"block_handler"
+			],
+			[
+				"wp_get_post_cat",
+				"wp_get_post_categories"
+			],
+			[
+				"plugin",
+				"plugin-header\tplugin-header"
+			],
+			[
+				"wp_get_image_",
+				"wp_get_attachment_image_url"
+			],
+			[
+				"get_image_size",
+				"wp_get_attachment_image_sizes"
+			],
+			[
+				"get_current",
+				"get_current_blog_id"
+			],
+			[
+				"wp_get_image",
+				"wp_get_attachment_image_url"
+			],
+			[
+				"wp_get_attachment_image_",
+				"wp_get_attachment_image_url"
+			],
+			[
+				"market_att",
+				"market_attachment_id"
+			],
+			[
+				"wp_get_imag",
+				"wp_get_attachment_image_url"
+			],
+			[
+				"get_mime_",
+				"get_post_mime_type"
+			],
+			[
+				"native",
+				"native_install_dir"
+			],
+			[
+				"nativ",
+				"native_install_dir"
+			],
+			[
+				"wp-config",
+				"wp-config-top\twp-config-top"
+			],
+			[
+				"disco",
+				"disconnect"
+			],
+			[
+				"curren",
+				"currentListId"
+			],
+			[
+				"maybe",
+				"maybeDeleteFromLS"
+			],
+			[
+				"always",
+				"isAlwaysFreshModal"
+			],
+			[
+				"capital",
+				"capital_letter_count"
+			],
+			[
+				"dropdo",
+				"dropdownItem"
+			],
+			[
+				"target",
+				"targetListId"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"curr",
+				"currentListId"
+			],
+			[
+				"drop",
+				"dropdownArea"
+			],
+			[
+				"wds_central_market",
+				"wds_central_market_lists_switch_back_to_site__return"
+			],
+			[
+				"title",
+				"title_search"
+			],
+			[
+				"get_nav_menu",
+				"wp_get_nav_menus"
+			],
+			[
+				"sanitize_title",
+				"sanitize_title_with_dashes"
+			],
+			[
+				"not_form_by",
+				"not_form_by_id"
+			],
+			[
+				"ent",
+				"entry_id"
+			],
+			[
+				"vari",
+				"variation_id"
+			],
+			[
+				"attach",
+				"attachment_url"
+			],
+			[
+				"add",
+				"add-to-list-mobile"
+			],
+			[
+				"load",
+				"loadingOff"
+			],
+			[
+				"original",
+				"original_site_id"
+			],
+			[
+				"origi",
+				"original"
+			],
+			[
+				"wds_central_market_s",
+				"wds_central_market_lists_switch_back_to_site"
+			],
+			[
+				"wds_central_market_lists_swith",
+				"wds_central_market_lists_switch_to_main_site"
+			],
+			[
+				"wdsList",
+				"wdsCentralMarketListManager"
+			],
+			[
+				"wds",
+				"wdsCentralMarketListManager"
+			],
+			[
+				"sanit",
+				"sanitize_text_field"
+			],
+			[
+				"sanitize_field",
+				"sanitize_text_field"
+			],
+			[
+				"simplexml_",
+				"simplexml_load_string"
+			],
+			[
+				"required",
+				"requiredPlaceholders"
+			],
+			[
+				"get_current_user",
+				"get_current_user_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "snippets.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "/Packages/User"
+					},
+					"DgAAAH8AAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACBAAAAAAAAAAAAAACBAAAAAAAAAIIAAAAAAAAAAAAAAIIAAAAAAAAAgwAAAAAAAAAAAAAAgwAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIUAAAAAAAAAAAAAAIUAAAAAAAAAhgAAAAAAAAAAAAAAhgAAAAAAAACHAAAAAAAAAAAAAACHAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAiQAAAAAAAAAAAAAAiQAAAAAAAACKAAAAAAAAAAAAAACKAAAAAAAAAIsAAAAAAAAAAAAAAIsAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACNAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "/Snippets"
+					},
+					"CQAAAI0AAAAAAAAAjgAAAAAAAAAAAAAAjgAAAAAAAACPAAAAAAAAAAAAAACPAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAkQAAAAAAAAAAAAAAkQAAAAAAAACSAAAAAAAAAAAAAACSAAAAAAAAAJMAAAAAAAAAAAAAAJMAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACVAAAAAAAAAAAAAACVAAAAAAAAAJYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjQAAAAAAAACNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AgAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAiAAAAAAAAAHUAAAAvVXNlcnMvYXVicmV5cHdkL0xpYnJhcnkvTW9iaWxlIERvY3VtZW50cy9jb21+YXBwbGV+Q2xvdWREb2NzL0FwcGxpY2F0aW9uIFN1cHBvcnQvU3VibGltZSBUZXh0L1BhY2thZ2VzL1VzZXIvU25pcHBldHM",
+					"AQAAAAAAAAABAAAAIQAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"make snippet",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"package  list",
+				"Package Control: List Packages"
+			],
+			[
+				"delete sess",
+				"SimpleSession: Delete"
+			],
+			[
+				"delete session",
+				"SimpleSession: Delete"
+			],
+			[
+				"session ",
+				"SimpleSession: Edit"
+			],
+			[
+				"session save",
+				"SimpleSession: Save"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"stop dbu",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"stop deub",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"stop debug",
+				"Snippet: project-lwp-xdebug"
+			],
+			[
+				"step over",
+				"Xdebug: Breakpoint - Step Over"
+			],
+			[
+				"clear break",
+				"Xdebug: Clear Breakpoints"
+			],
+			[
+				"start",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"add break",
+				"Xdebug: Add/Remove Breakpoint"
+			],
+			[
+				"convert to tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"clear all",
+				"Xdebug: Clear All Breakpoints"
+			],
+			[
+				"stop deb",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"restart",
+				"Xdebug: Restart Session"
+			],
+			[
+				"eval",
+				"Xdebug: Session - Evaluate"
+			],
+			[
+				"stop ",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"stop",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"stop debugg",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"stop debugging",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"restart ",
+				"Xdebug: Restart Session"
+			],
+			[
+				"clear brea",
+				"Xdebug: Clear Breakpoints"
+			],
+			[
+				"start de",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"align",
+				"AlignTab"
+			],
+			[
+				"stop debu",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"eval ",
+				"Xdebug: Session - Evaluate"
+			],
+			[
+				"stop debub",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"debug run",
+				"Xdebug: Breakpoint - Run"
+			],
+			[
+				"clear all ",
+				"Xdebug: Clear All Breakpoints"
+			],
+			[
+				"clearla",
+				"Xdebug: Clear All Breakpoints"
+			],
+			[
+				"stopd",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"clear",
+				"Xdebug: Clear All Breakpoints"
+			],
+			[
+				"stop de",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"clear all break",
+				"Xdebug: Clear All Breakpoints"
+			],
+			[
+				"stopde",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"start debug",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"conver to spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"start deb",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"start d",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdebug ",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"lint view",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint this view",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"package disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"packate install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"snippet comm",
+				"Snippet: bash-comment"
+			],
+			[
+				"snippet maker",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"unique",
+				"Permute Lines: Unique"
+			],
+			[
+				"syntax bash",
+				"Set Syntax: Bash"
+			],
+			[
+				"syntax shell",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"bash",
+				"Set Syntax: Bash"
+			],
+			[
+				"snippetmaker",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"uppercase",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"project remove",
+				"Project Manager: Remove Project"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"project add",
+				"Project Manager: Add New Project"
+			],
+			[
+				"conver to tspaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"project edit",
+				"Project: Edit"
+			],
+			[
+				"rename project",
+				"Project Manager: Rename Project"
+			],
+			[
+				"project rename",
+				"Project Manager: Rename Project"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"github link",
+				"GitHub: Open Remote URL in Browser (permalink)"
+			],
+			[
+				"package install ",
+				"Package Control: Install Package"
+			],
+			[
+				"github",
+				"GitHubinator Permalink"
+			],
+			[
+				"sort lines",
+				"Sort Lines"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"convert to spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convert to tspaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"git permalink",
+				"GitHubinator Permalink"
+			],
+			[
+				"color schem",
+				"UI: Select Color Scheme"
+			],
+			[
+				"local cli",
+				"Snippet: wp-cli-local-yml"
+			],
+			[
+				"wp-ci",
+				"Snippet: wp-cli-local-yml"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"lint ",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"peojct dead",
+				"Project Manager: Remove Dead Projects"
+			],
+			[
+				"project rena",
+				"Project Manager: Rename Project"
+			],
+			[
+				"package",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"package ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package installl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"config",
+				"SSH Config: Settings"
+			],
+			[
+				"syntax vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"project dead",
+				"Project Manager: Remove Dead Projects"
+			],
+			[
+				"project save",
+				"Project: Save As"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"nginx",
+				"Set Syntax: nginx"
+			],
+			[
+				"scheme ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"project rn",
+				"Project Manager: Rename Project"
+			],
+			[
+				"syntax nginx",
+				"Set Syntax: nginx"
+			],
+			[
+				"syn json",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntax htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn nginx",
+				"Set Syntax: nginx"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"session load",
+				"SimpleSession: Load"
+			],
+			[
+				"session laod",
+				"SimpleSession: Load"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conver tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"project remove dead",
+				"Project Manager: Remove Dead Projects"
+			],
+			[
+				"trim trainli",
+				"Trim Trailing White Space"
+			],
+			[
+				"trip tailing",
+				"Trim Trailing White Space"
+			],
+			[
+				"whitepsace",
+				"Trim Trailing White Space"
+			],
+			[
+				"sort lin",
+				"Sort Lines"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"git add file",
+				"Git: Add Current File"
+			],
+			[
+				"git hi",
+				"Git: Commit history"
+			],
+			[
+				"git: st",
+				"Git: Commit history"
+			],
+			[
+				"git his",
+				"Git: Commit history"
+			],
+			[
+				"git ",
+				"Git: Commit history"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"start db",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"snippet apache",
+				"Snippet: apache-redirect"
+			]
+		],
+		"width": 652.0
+	},
+	"console":
+	{
+		"height": 537.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/aubreypwd/Repos/github.com/aubreypwd/subl-snippets"
+	],
+	"file_history":
+	[
+		"/Users/aubreypwd/Library/Mobile Documents/com~apple~CloudDocs/Application Support/Sublime Text/Packages/User/Main.sublime-menu",
+		"/Users/aubreypwd/Library/Mobile Documents/com~apple~CloudDocs/Application Support/Sublime Text/Packages/SimpleSession/README.md",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-config.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/tutor/tutor.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/index.php",
+		"/Users/aubreypwd/Sites/affwpdev/conf/php/php.ini.hbs",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-includes/class-wp-fatal-error-handler.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/affwpdev.sublime-project",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/tutor/classes/Course.php",
+		"/Users/aubreypwd/Sites/affwpdev/.gitignore",
+		"/Users/aubreypwd/Sites/affwpdev/conf/php-5.6.39/php.ini.hbs",
+		"/Users/aubreypwd/Sites/affwpdev/conf/php-7.3.5/php.ini.hbs",
+		"/Users/aubreypwd/Sites/affwpdev/conf/php-7.4.30/php.ini.hbs",
+		"/Users/aubreypwd/Sites/affwpdev/conf/php-8.0.22/php.ini.hbs",
+		"/Users/aubreypwd/Sites/affwpdev/conf/php-8.1.9/php.ini.hbs",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/includes/integrations/class-edd.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/templates/emails/footer-summaries.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/templates/emails/body-summaries.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/templates/emails/header-summaries.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/includes/emails/functions.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/includes/affiliate-functions.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/includes/referral-functions.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/templates/emails/header-affiliate-summary.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/woocommerce/templates/emails/email-header.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/easy-digital-downloads/includes/emails/email-summary/edd-email-summary-template.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/uninstall.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/project.sublime-project",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-includes/admin-bar.php",
+		"/Users/aubreypwd/Sites/affwpdev/conf/php/php-fpm.conf.hbs",
+		"/Users/aubreypwd/Sites/wpforms/app/public/wp-cron.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/templates/emails/includes/header-css.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/templates/emails/includes/footer-css.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/emails/functions.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/emails/actions.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/class-affwp-scheduler.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/admin/settings/class-settings.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-config.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/email-summaries.json",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/templates/emails/footer-reports.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/templates/emails/header-reports.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/libraries/action-scheduler/action-scheduler.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/libraries/action-scheduler/functions.php",
+		"/Users/aubreypwd/Library/Mobile Documents/com~apple~CloudDocs/Application Support/Sublime Text/Packages/User/Snippets/@sn.sublime-snippet",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/class-affiliate-wp.php",
+		"/Users/aubreypwd/Library/Mobile Documents/com~apple~CloudDocs/Application Support/Sublime Text/Packages/User/Snippets/AFFILIATEWP.sublime-snippet",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/admin/affiliates/affiliates.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/tests/admin/test-settings.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/admin/tools/export/export.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/admin/reports/tabs/class-sales-reports-tab.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/admin/reports/tabs/class-referrals-reports-tab.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/admin/reports/tabs/class-affiliates-reports-tab.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/abstracts/class-affwp-reports-tab.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/admin/affiliates/class-list-table.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/conf/php-5.6.39/php.ini.hbs",
+		"/Users/aubreypwd/Sites/affwpdev4409/conf/php/php.ini.hbs",
+		"/Users/aubreypwd/Library/Mobile Documents/com~apple~CloudDocs/Application Support/Sublime Text/Packages/User/Xdebug.sublime-settings",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/templates/emails/footer-default.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/templates/emails/header-default.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/core/license/class-license-data.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/mu-plugins/mu.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/affiliate-wp.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/emails/class-affwp-emails.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affwp-generator-master/lib/factories/generators/Transaction.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affwp-generator-master/lib/controllers/Generators.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/templates/emails/body-reports.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/admin/utilities/class-environment-checker.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/admin/pages/class-analytics.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/assets/images/affiliatewp-1.svg",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/includes/emails/class-affwp-emails.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/templates/emails/body-default.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/includes/admin/class-upgrades.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/project.sublime-project",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-includes/class-wp-hook.php",
+		"/Users/aubreypwd/Sites/affwpdev4409/logs/php/php-fpm.log",
+		"/Users/aubreypwd/Sites/affwpdev4409/logs/php/error.log",
+		"/Users/aubreypwd/Sites/affwpdev4409/conf/php/php-fpm.d/www.conf.hbs",
+		"/Users/aubreypwd/Sites/affwpdev4409/app/public/wp-content/plugins/affiliate-wp/includes/misc-functions.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/includes/components/wizard/class-bootstrap.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/includes/admin/settings/class-settings.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/easy-digital-downloads/includes/admin/settings/register-settings.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/.phpcs.xml.dist",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-cron.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/includes/admin/reports/tabs/class-referrals-reports-tab.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/includes/admin/tools/tools.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/includes/admin/settings/display-settings.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/includes/admin/reports/class-sales-graph.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-content/plugins/affiliate-wp/includes/class-sales-db.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-blog-header.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/composer.json",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/project.sublime-workspace",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-login.php",
+		"/Users/aubreypwd/Sites/affwpdev/app/public/wp-load.php",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-my-config/my-commands.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-my-config/my-misc.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-my-config/assets/localwp/wp-cli.local.yml",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-my-config/assets/localwp/wp-cli.local.php",
+		"/Users/aubreypwd/Library/Mobile Documents/com~apple~CloudDocs/Application Support/Sublime Text/Packages/User/Projects/config.sublime-project",
+		"/Users/aubreypwd/.zshrc",
+		"/etc/hosts",
+		"/private/tmp/backupsql/untitled",
+		"/Users/aubreypwd/Library/Mobile Documents/com~apple~CloudDocs/Application Support/Sublime Text/Packages/User/Snippets/sh-silent-cmds.sublime-snippet",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-yt2mp3/zsh-plugin-yt2mp3.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-x/zsh-plugin-x.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-tdl/tdl.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-require-1.0.1/zsh-plugin-require.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-require/zsh-plugin-require.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-reload/zsh-plugin-reload.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-pwdcp/zsh-plugin-pwdcp.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-newvwp/zsh-plugin-newvwp.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-hide/hide.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-fd/zsh-plugin-fd.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-download/zsh-plugin-download.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-delete/delete.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-cvideo/zsh-plugin-cvideo.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-comment/comment.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-bruse/zsh-plugin-bruse.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-affwp/functions.bash",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-affwp/commands.bash",
+		"/Users/aubreypwd/Library/Mobile Documents/com~apple~CloudDocs/Application Support/Sublime Text/Packages/User/Snippets/sh-if-cmd.sublime-snippet",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-affwp/README.md",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-my-config/my-functions.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-affwp/zsh-plugin-affwp.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-my-config/zsh-plugin-aubreypwd.plugin.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-my-config/my-require.zsh",
+		"/Users/aubreypwd/.gitconfig",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-my-config/my-deprecations.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-my-config/my-repos.zsh",
+		"/Users/aubreypwd/.antigen/bundles/aubreypwd/zsh-plugin-my-config/my-vars.zsh"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": false,
+		"use_buffer2": true,
+		"use_gitignore": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "snippets.sublime-project",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"rainbow_checked": true,
+							"syntax": "Packages/JSON/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 130.0
+	},
+	"output.xdebug":
+	{
+		"height": 114.0
+	},
+	"pinned_build_system": "",
+	"project": "snippets.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"email functions",
+				"app/public/wp-content/plugins/affiliate-wp/includes/emails/functions.php"
+			],
+			[
+				"/plugins/tutor/tutor.php",
+				"app/public/wp-content/plugins/tutor/tutor.php"
+			],
+			[
+				"wp-config",
+				"app/public/wp-config.php"
+			],
+			[
+				"plugins/tutor/classes/Course.php",
+				"app/public/wp-content/plugins/tutor/classes/Course.php"
+			],
+			[
+				"includes/integrations/class-edd.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/integrations/class-edd.php"
+			],
+			[
+				"wp-config.php",
+				"app/public/wp-config.php"
+			],
+			[
+				"affiliate functions",
+				"app/public/wp-content/plugins/affiliate-wp/includes/affiliate-functions.php"
+			],
+			[
+				"referral fun",
+				"app/public/wp-content/plugins/affiliate-wp/includes/referral-functions.php"
+			],
+			[
+				"affiliate-wp email header.php",
+				"app/public/wp-content/plugins/affiliate-wp/templates/emails/header-affiliate-summary.php"
+			],
+			[
+				"email header",
+				"app/public/wp-content/plugins/woocommerce/templates/emails/email-header.php"
+			],
+			[
+				"includes/admin/settings/class-settings.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/admin/settings/class-settings.php"
+			],
+			[
+				"header-reports",
+				"app/public/wp-content/plugins/affiliate-wp/templates/emails/header-reports.php"
+			],
+			[
+				"udes/class-affwp-scheduler.",
+				"app/public/wp-content/plugins/affiliate-wp/includes/class-affwp-scheduler.php"
+			],
+			[
+				"includes/emails/functions.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/emails/functions.php"
+			],
+			[
+				"includes/emails/actions.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/emails/actions.php"
+			],
+			[
+				"includes/class-affwp-scheduler.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/class-affwp-scheduler.php"
+			],
+			[
+				"email actions",
+				"app/public/wp-content/plugins/affiliate-wp/includes/emails/actions.php"
+			],
+			[
+				"affiliate-wp action-scheduler.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/libraries/action-scheduler/action-scheduler.php"
+			],
+			[
+				"class affilaites tab",
+				"app/public/wp-content/plugins/affiliate-wp/includes/admin/reports/tabs/class-affiliates-reports-tab.php"
+			],
+			[
+				"class referrals tab",
+				"app/public/wp-content/plugins/affiliate-wp/includes/admin/reports/tabs/class-referrals-reports-tab.php"
+			],
+			[
+				"class-sales",
+				"app/public/wp-content/plugins/affiliate-wp/includes/admin/reports/tabs/class-sales-reports-tab.php"
+			],
+			[
+				"email actions ",
+				"app/public/wp-content/plugins/affiliate-wp/includes/emails/actions.php"
+			],
+			[
+				"emails functions",
+				"app/public/wp-content/plugins/affiliate-wp/includes/emails/functions.php"
+			],
+			[
+				"mu.php",
+				"app/public/wp-content/mu-plugins/mu.php"
+			],
+			[
+				"affiliate-wp functions",
+				"app/public/wp-content/plugins/affiliate-wp/includes/emails/functions.php"
+			],
+			[
+				"affiliate-wp license php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/core/license/class-license-data.php"
+			],
+			[
+				"class-settings",
+				"app/public/wp-content/plugins/affiliate-wp/includes/admin/settings/class-settings.php"
+			],
+			[
+				"affiliate-wp class-sales-graph",
+				"app/public/wp-content/plugins/affiliate-wp/includes/admin/reports/class-sales-graph.php"
+			],
+			[
+				"my-commands",
+				"~/.antigen/bundles/aubreypwd/zsh-plugin-my-config/my-commands.zsh"
+			],
+			[
+				"my-require",
+				"~/.antigen/bundles/aubreypwd/zsh-plugin-my-config/my-require.zsh"
+			],
+			[
+				".gitconfig",
+				"~/.gitconfig"
+			],
+			[
+				"my-functions",
+				"~/.antigen/bundles/aubreypwd/zsh-plugin-my-config/my-functions.zsh"
+			],
+			[
+				"my-as",
+				"~/.antigen/bundles/aubreypwd/zsh-plugin-my-config/my-aliases.zsh"
+			],
+			[
+				".zshrc",
+				"~/.zshrc"
+			],
+			[
+				".zshr",
+				".zshrc"
+			],
+			[
+				"affiliate media scss",
+				"app/public/wp-content/themes/affiliatewp-v2/src/sass/appliance/_a.media-queries.scss"
+			],
+			[
+				"media queries scss",
+				"app/public/wp-content/plugins/awp-core/assets/scss/emails/_media_queries.scss"
+			],
+			[
+				"affiliate v2 header",
+				"app/public/wp-content/themes/affiliatewp-v2/header.php"
+			],
+			[
+				"header.php",
+				"app/public/wp-includes/theme-compat/header.php"
+			],
+			[
+				"front-page scss",
+				"app/public/wp-content/themes/affiliatewp-v2/src/sass/pages/_front-page.scss"
+			],
+			[
+				"block_patterns.php",
+				"app/public/wp-content/themes/affiliatewp-v2/app/Blocks/block_patterns.php"
+			],
+			[
+				"gitconfig",
+				".gitconfig"
+			],
+			[
+				".vimrc",
+				".vimrc"
+			],
+			[
+				".htaccess",
+				"app/public/.htaccess"
+			],
+			[
+				"includes/components/wizard/class-bootstrap.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/components/wizard/class-bootstrap.php"
+			],
+			[
+				"wp-config-deb",
+				"app/public/wp-config-debug.php"
+			],
+			[
+				"wp-includes/wp-db.php",
+				"app/public/wp-includes/wp-db.php"
+			],
+			[
+				"lifetime README.md",
+				"app/public/wp-content/plugins/affiliate-wp-lifetime-commissions/README.md"
+			],
+			[
+				"README.md",
+				"app/public/wp-content/plugins/affiliate-wp/README.md"
+			],
+			[
+				"includes/scripts.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/scripts.php"
+			],
+			[
+				"includes/install.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/install.php"
+			],
+			[
+				"includes/core/license/class-license-manager.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/core/license/class-license-manager.php"
+			],
+			[
+				"includes/components/notifications/views/notifications-panel.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/components/notifications/views/notifications-panel.php"
+			],
+			[
+				"includes/components/notifications/class-notifications-db.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/components/notifications/class-notifications-db.php"
+			],
+			[
+				"getActiveNotifications",
+				"app/public/wp-content/plugins/affiliate-wp/includes/components/notifications/views/notifications-panel.php"
+			],
+			[
+				"includes/components/notifications/REST/v1/class-notifications-endpoints.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/components/notifications/REST/v1/class-notifications-endpoints.php"
+			],
+			[
+				"includes/class-affiliate-wp.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/class-affiliate-wp.php"
+			],
+			[
+				"includes/admin/utilities/class-notification-importer.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/admin/utilities/class-notification-importer.php"
+			],
+			[
+				"includes/admin/utilities/class-environment-checker.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/admin/utilities/class-environment-checker.php"
+			],
+			[
+				"includes/admin/settings/display-settings.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/admin/settings/display-settings.php"
+			],
+			[
+				"includes/admin/class-upgrades.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/admin/class-upgrades.php"
+			],
+			[
+				"assets/js/admin-notifications.js",
+				"app/public/wp-content/plugins/affiliate-wp/assets/js/admin-notifications.js"
+			],
+			[
+				"wp-config-debu",
+				"app/public/wp-config-debug.php"
+			],
+			[
+				"components/wizard/class-bootstrap.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/components/wizard/class-bootstrap.php"
+			],
+			[
+				"affiliate-wp includes/admin/settings/class-settings.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/admin/settings/class-settings.php"
+			],
+			[
+				"eWP/includes/admin/settings/class-settings.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/admin/settings/class-settings.php"
+			],
+			[
+				"composer.json",
+				"~/Sites/Local/affwp-dev/app/public/composer.json"
+			],
+			[
+				"integrations/class-woocommerce.php",
+				"app/public/wp-content/plugins/affiliate-wp-lifetime-commissions/integrations/class-woocommerce.php"
+			],
+			[
+				"/includes/abstracts/class-db.php",
+				"app/public/wp-content/plugins/affiliate-wp/includes/abstracts/class-db.php"
+			],
+			[
+				"wp-settings.php",
+				"wp-settings.php"
+			],
+			[
+				"ddab.json",
+				"~/Sites/Valet/WebDevStudios/monster-empmerch/wp-content/themes/monster-hiring/acf-json/group_607dd8569ddab.json"
+			],
+			[
+				"d60.json",
+				"~/Sites/Valet/WebDevStudios/monster-empmerch/wp-content/plugins/wds-monster-related-articles/json/acf/group_62156cbabfd60.json"
+			],
+			[
+				"df60.json",
+				"~/Sites/Valet/WebDevStudios/monster-empmerch/wp-content/themes/monster-hiring/acf-json/group_607dd8569ddab.json"
+			],
+			[
+				"acf-json",
+				"wp-content/plugins/wds-monster-related-articles/inc/acf-json.php"
+			],
+			[
+				"wds related articles",
+				"wp-content/plugins/wds-monster-related-articles/wds-monster-related-articles.php"
+			],
+			[
+				"wp-config-de",
+				"wordpress/wp-config-debug.php"
+			],
+			[
+				"class-wp-term",
+				"wordpress/wp-includes/class-wp-term.php"
+			],
+			[
+				"template part related articles",
+				"wp-content/themes/monster-hiring/template-parts/content-related-articles.php"
+			],
+			[
+				"template part related",
+				"wp-content/themes/monster-hiring/template-parts/content-related-articles.php"
+			],
+			[
+				"ray-config",
+				"wordpress/wp-ray-config.php"
+			],
+			[
+				"related-articles.scss",
+				"wp-content/themes/monster-hiring/src/scss/modules/_related-articles.scss"
+			],
+			[
+				"blog/content-",
+				"wp-content/themes/monster-hiring/template-parts/blog/content-related-articles.php"
+			],
+			[
+				"template-part related",
+				"wp-content/themes/monster-hiring/template-parts/blog/content-related-articles.php"
+			],
+			[
+				"_help",
+				"wp-content/themes/monster-hiring/src/scss/modules/help-center/_help-center-template.scss"
+			],
+			[
+				"monster-related",
+				"wp-content/plugins/wds-monster-related-articles/wds-monster-related-articles.php"
+			],
+			[
+				"tailwind",
+				"wp-content/themes/monster-hiring/tailwind.config.js"
+			],
+			[
+				"content-help-",
+				"wp-content/themes/monster-hiring/template-parts/content-help-center-post.php"
+			],
+			[
+				"wds required",
+				"wp-content/mu-plugins/wds-required-plugins.php"
+			],
+			[
+				"content webinar",
+				"wp-content/themes/monster-hiring/single-webinar.php"
+			],
+			[
+				"footer.php",
+				"wp-content/themes/monster-hiring/footer.php"
+			],
+			[
+				"clear all js",
+				"wp-content/plugins/wds-monster-related-articles/es5-js/clear-all.js"
+			],
+			[
+				"d-articles/inc/content-types.php",
+				"wp-content/plugins/wds-monster-related-articles/inc/content-types.php"
+			],
+			[
+				"keywrods.php",
+				"wp-content/plugins/wds-monster-related-articles/inc/keywords.php"
+			],
+			[
+				"related articles",
+				"wp-content/plugins/wds-monster-related-articles/wds-monster-related-articles.php"
+			],
+			[
+				"ted-articles/inc/filters.php",
+				"wp-content/plugins/wds-monster-related-articles/inc/filters.php"
+			],
+			[
+				"related artic ",
+				"wp-content/plugins/wds-monster-related-articles/wds-monster-related-articles.php"
+			],
+			[
+				"required plu",
+				"wp-content/mu-plugins/wds-required-plugins.php"
+			],
+			[
+				"employer-resource-post",
+				"wp-content/themes/monster-hiring/template-parts/content-employer-resource-post.php"
+			],
+			[
+				"option settings",
+				"wp-content/plugins/wds-monster-optimizely/inc/admin/options-settings.php"
+			],
+			[
+				"ely/css/admin/styles.css",
+				"wp-content/plugins/wds-monster-optimizely/css/admin/styles.css"
+			],
+			[
+				"plugins/wds-monster-optimizely/inc/admin/page-settings.php",
+				"wp-content/plugins/wds-monster-optimizely/inc/admin/page-settings.php"
+			],
+			[
+				"plugins/wds-monster-optimizely/inc/admin/options-settings.php",
+				"wp-content/plugins/wds-monster-optimizely/inc/admin/options-settings.php"
+			],
+			[
+				".eslintignore",
+				"wp-content/.eslintignore"
+			],
+			[
+				"ter-related-articles/inc/manual-selections.php",
+				"wp-content/plugins/wds-monster-related-articles/inc/manual-selections.php"
+			],
+			[
+				"prettier",
+				"wp-content/themes/monster-hiring/.prettierignore"
+			],
+			[
+				".gitignore",
+				"wp-content/.gitignore"
+			],
+			[
+				"heder.php",
+				"wp-content/themes/monster-hiring/header.php"
+			],
+			[
+				"optimizely",
+				"wp-content/plugins/wds-monster-optimizely/wds-monster-optimizely.php"
+			],
+			[
+				"themes/monster-hiring/template-parts/webinars/functions.php",
+				"wp-content/themes/monster-hiring/template-parts/webinars/functions.php"
+			],
+			[
+				"themes/monster-hiring/src/components/resource-center/ebooks/ebooks-download.js",
+				"wp-content/themes/monster-hiring/src/components/resource-center/ebooks/ebooks-download.js"
+			],
+			[
+				"themes/monster-hiring/template-parts/ebooks/block-posts.php",
+				"wp-content/themes/monster-hiring/template-parts/ebooks/block-posts.php"
+			],
+			[
+				"themes/monster-hiring/template-parts/components/component-download-count.php",
+				"wp-content/themes/monster-hiring/template-parts/components/component-download-count.php"
+			],
+			[
+				"themes/monster-hiring/src/components/term-filters.js",
+				"wp-content/themes/monster-hiring/src/components/term-filters.js"
+			],
+			[
+				"themes/monster-hiring/src/components/term-filters-with-load-more.js",
+				"wp-content/themes/monster-hiring/src/components/term-filters-with-load-more.js"
+			],
+			[
+				"themes/monster-hiring/src/components/load-more-button.js",
+				"wp-content/themes/monster-hiring/src/components/load-more-button.js"
+			],
+			[
+				"monster scripts ",
+				"wp-content/themes/monster-hiring/inc/scripts.php"
+			],
+			[
+				"hero js",
+				"wp-content/themes/monster-hiring/assets/js/hero.js"
+			],
+			[
+				"theme hiring functions",
+				"wp-content/themes/monster-hiring/functions.php"
+			],
+			[
+				"themes/monster-hiring/inc/class-acf-archive.php",
+				"wp-content/themes/monster-hiring/inc/class-acf-archive.php"
+			],
+			[
+				"themes/monster-hiring/template-parts/content-blocks/block-cta-banner-alternate.php",
+				"wp-content/themes/monster-hiring/template-parts/content-blocks/block-cta-banner-alternate.php"
+			],
+			[
+				"themes/monster-hiring/template-parts/components/component-timely-featured-post.php",
+				"wp-content/themes/monster-hiring/template-parts/components/component-timely-featured-post.php"
+			],
+			[
+				"themes/monster-hiring/template-parts/components/component-term-filters.php",
+				"wp-content/themes/monster-hiring/template-parts/components/component-term-filters.php"
+			],
+			[
+				"themes/monster-hiring/template-parts/components/component-reading-length.php",
+				"wp-content/themes/monster-hiring/template-parts/components/component-reading-length.php"
+			],
+			[
+				"themes/monster-hiring/template-parts/components/component-date-display.php",
+				"wp-content/themes/monster-hiring/template-parts/components/component-date-display.php"
+			],
+			[
+				"themes/monster-hiring/template-parts/components/component-blog-preview-card.php",
+				"wp-content/themes/monster-hiring/template-parts/components/component-blog-preview-card.php"
+			],
+			[
+				"themes/monster-hiring/inc/hooks.php",
+				"wp-content/themes/monster-hiring/inc/hooks.php"
+			],
+			[
+				"themes/monster-hiring/inc/ajax-handlers.php",
+				"wp-content/themes/monster-hiring/inc/ajax-handlers.php"
+			],
+			[
+				"themes/monster-hiring/inc/acf-options.php",
+				"wp-content/themes/monster-hiring/inc/acf-options.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Library/Mobile Documents/com~apple~CloudDocs/Application Support/Sublime Text/Packages/User/Projects/project-bsu.sublime-workspace"
+			],
+			[
+				"central",
+				"~/Sublime/centralmarket.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
