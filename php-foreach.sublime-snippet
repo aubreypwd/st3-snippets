@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+<?php foreach ( $1 as $2 ) : ?>
+	$3
+<?php endforeach; ?>
+]]></content>
+<tabTrigger>foreach:</tabTrigger>
+<description>foreach</description>
+<scope>embedding.php, text.html.basic, text.html.basic</scope>
+</snippet>

@@ -2,6 +2,7 @@
 	<content><![CDATA[
 <?php if ( $1 ) : ?>
 	$2
+<?php endif; ?>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>if:</tabTrigger>
