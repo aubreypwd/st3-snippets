@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+if ( $4( $1 ) ) {
+	throw new \\InvalidArgumentException( '$1 $2' );
+}
+]]></content>
+<tabTrigger>badarg</tabTrigger>
+<description>Throw an InvalidArgumentException</description>
+<scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.class.php, meta.block.php, meta.function.php, meta.block.php, keyword.control.conditional.if.php</scope>
+</snippet>

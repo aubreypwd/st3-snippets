@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+new \WP_Error(
+	'$1',
+	'$2',
+	$3
+);
+]]></content>
+<tabTrigger>wp-error</tabTrigger>
+<description>Create a WP_Error</description>
+<scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.class.php, meta.block.php, meta.function.php, meta.block.php, meta.block.php, keyword.control.flow.return.php</scope>
+</snippet>
