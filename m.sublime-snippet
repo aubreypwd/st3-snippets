@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+$1(
+	$2
+);
+]]></content>
+<tabTrigger>m</tabTrigger>
+<description>Create a multi-line function.</description>
+<scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.block.php, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php</scope>
+</snippet>
