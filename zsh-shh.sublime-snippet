@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+( ( # Quietly run in the background...
+	$1
+) 1>&- 2>&- & )
+]]></content>
+<tabTrigger>shh</tabTrigger>
+<description>Quietly run commands in the background.</description>
+<scope>source.shell.bash, meta.compound.shell, punctuation.section.compound.begin.shell</scope>
+</snippet>
