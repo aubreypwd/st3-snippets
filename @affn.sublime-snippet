@@ -7,7 +7,7 @@
 <content><![CDATA[
 @since ${1:AFFWPNEXT}
 ]]></content>
-<tabTrigger>@saff</tabTrigger>
+<tabTrigger>@affn</tabTrigger>
 <description>Affiliate WP @since AFFWPNEXT</description>
 <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.class.php, meta.block.php, meta.function.php, meta.block.php, meta.function-call.arguments.php, meta.group.php, comment.block.documentation.phpdoc.php, entity.name.tag.documentation.phpdoc.php</scope>
 </snippet>
