@@ -1,0 +1,13 @@
+<snippet>
+<!--
+    Fields: $field_number or ${field_number:default_text}, e.g. $1 or ${1:name}
+    Variables: $variable or ${variable/regex/replace/flags}, e.g. $TM_FILEPATH
+    More: https://www.sublimetext.com/docs/completions.html#snippets
+-->
+<content><![CDATA[
+// phpcs:disable PEAR.Functions.FunctionCallSignature.ContentAfterOpenBracket, PEAR.Functions.FunctionCallSignature.CloseBracketLine -- Allow surrounding code w/out line breaks.
+]]></content>
+<tabTrigger>wpcs-oldskool</tabTrigger>
+<description>Allow old-skool surrounds.</description>
+<scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, comment.line.double-slash.php, punctuation.definition.comment.php</scope>
+</snippet>
