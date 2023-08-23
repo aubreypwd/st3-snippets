@@ -5,7 +5,7 @@
     More: https://www.sublimetext.com/docs/completions.html#snippets
 -->
 <content><![CDATA[
-\PC::debug( $1${2:, '$3'} );
+\PC::debug( ${1:array( $2 )} );
 ]]></content>
 <tabTrigger>console</tabTrigger>
 <description>Log output to console.</description>
